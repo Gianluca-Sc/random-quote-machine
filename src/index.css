@@ -14,7 +14,7 @@ body {
 }
 
 #quote-box {
-  width: 600px;
+  max-width: 600px;
   background-color: whitesmoke;
   padding: 2.8rem;
   border-radius: 10px;
